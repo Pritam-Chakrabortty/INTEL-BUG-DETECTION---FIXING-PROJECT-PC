@@ -1,0 +1,38 @@
+# Byte-compiled / compiled files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.dylib
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+*.egg-info/
+
+# VS Code settings and workspace files
+.vscode/
+*.code-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+
+# Python package dependencies
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Static and media files
+static/download*
+static/images.png
+
+# Deployment
+*.render/
+.env
