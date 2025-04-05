@@ -84,7 +84,7 @@ Ensure you have the following installed:
 2. **Enter Code:** Paste the buggy code into the input field.
 3. **Click 'Detect & Fix Bug':** The AI model analyzes the code and suggests fixes.
 4. **View the Fixed Code:** The corrected code will appear in the result section.
-5. **Download Fixed Code:** You can copy or download the corrected version.
+5. **Copy Fixed Code:** You can copy the corrected version.
 
 ## **🔗 API Endpoints**
 - `POST /detect` - Detects bugs in the provided code.
