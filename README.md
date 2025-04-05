@@ -41,9 +41,9 @@ INTEL-BUG-DETECTION---FIXING-PROJECT-PC/
 │── requirements.txt         # Dependencies list
 │── .env                     # Environment variables file
 │── README.md                # Project documentation
-│── demo.mp4                 # Demo video
-│── Documentation.pdf        # Project report/documentation
-│── Presentation.pptx        # Project presentation slides
+│── demo.mp4.mp4                 # Demo video
+│── Bug_Detection_and_Fixing[1].docx       # Project report/documentation
+│── Intel_Bug_Detection_Fixing_Project_Presentation(P.C).pptx        # Project presentation slides
 │── .gitignore               # Git ignore file
 │── LICENSE                  # License file
 ```
