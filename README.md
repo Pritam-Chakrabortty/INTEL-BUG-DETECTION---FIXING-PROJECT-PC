@@ -94,10 +94,10 @@ Ensure you have the following installed:
 📺 **[Watch the Demo](https://github.com/Pritam-Chakrabortty/INTEL-BUG-DETECTION---FIXING-PROJECT-PC/raw/refs/heads/main/demo.mp4.mp4)**
 
 ## **📄 Project Documentation**
-📄 **[Download Documentation](#)**
+📄 **[Download Documentation](https://github.com/Pritam-Chakrabortty/INTEL-BUG-DETECTION---FIXING-PROJECT-PC/raw/refs/heads/main/Bug_Detection_and_Fixing%5B1%5D.docx)**
 
 ## **🎤 Presentation**
-📊 **[View Presentation](#)**
+📊 **[View Presentation](https://github.com/Pritam-Chakrabortty/INTEL-BUG-DETECTION---FIXING-PROJECT-PC/raw/refs/heads/main/Intel_Bug_Detection_Fixing_Project_Presentation(P.C).pptx)**
 
 ## **📈 Future Enhancements**
 - Implementing a CI/CD pipeline for real-time feedback
