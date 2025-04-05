@@ -91,7 +91,7 @@ Ensure you have the following installed:
 - `POST /fix` - Returns a fixed version of the provided buggy code.
 
 ## **📹 Demo Video**
-📺 **[Watch the Demo](#)**
+📺 **[Watch the Demo](https://github.com/Pritam-Chakrabortty/INTEL-BUG-DETECTION---FIXING-PROJECT-PC/raw/refs/heads/main/demo.mp4.mp4)**
 
 ## **📄 Project Documentation**
 📄 **[Download Documentation](#)**
