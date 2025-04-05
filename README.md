@@ -1,4 +1,6 @@
 # **Intel Bug Detection & Fixing Project**
+**Team Name:** *Intel Bug Busters*
+
 
 ## **📌 Overview**
 This project is designed to detect and fix bugs in code using AI-powered techniques. Users can enter any random code, and the model will analyze, detect bugs, and suggest fixes. The application is built using Python and runs in VS Code.
